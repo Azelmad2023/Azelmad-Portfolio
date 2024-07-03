@@ -121,18 +121,18 @@
     align-items: center;
   }
   .title {
-    font-size: 42px;
+    font-size: 38px;
     margin-bottom: 23px;
   }
   .description {
-    font-size: 19px;
+    font-size: 17px;
     text-align: center;
     line-height: 25px;
     margin-bottom: 33px;
   }
   .contactBtn {
     text-decoration: none;
-     font-size: 18px;
+     font-size: 20px;
     padding: 17px 26px;
   }
 }
