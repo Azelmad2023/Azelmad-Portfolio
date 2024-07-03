@@ -1,0 +1,26 @@
+[
+  {
+    "show": false,
+    "title": "Material Management System",
+    "imageSrc": "projects/laptop.jpg",
+    "skills": ["Laravel", "MySql", "Bootstrap", "Blade"],
+    "demo": "",
+    "source": "https://github.com/Azelmad2023/Gestion-Materials-Informatiques"
+  },
+  {
+    "show": false,
+    "title": "Attendance Management System",
+    "imageSrc": "projects/laptop4.jpg",
+    "skills": ["Laravel", "MySql", "Css", "Bootstrap"],
+    "demo": "",
+    "source": "https://github.com/Azelmad2023/AttandanceSystemPortfolioManagement"
+  },
+  {
+    "show": true,
+    "title": "React Online Store With Redux Toolkit",
+    "imageSrc": "projects/laptop3.jpg",
+    "skills": ["React", "Sass", "Redux-Toolkit"],
+    "demo": "https://azelmad2023.github.io/Online-Store-Toolkit-React/",
+    "source": "https://github.com/Azelmad2023/Online-Store-With-Redux-Toolkit"
+  }
+]
